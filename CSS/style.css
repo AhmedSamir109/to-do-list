@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+    color: white;
+    font-family: 'Fredoka One', cursive ;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.pointer{
+    cursor: pointer;
+}
